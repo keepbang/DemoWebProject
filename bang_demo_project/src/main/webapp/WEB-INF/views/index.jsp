@@ -2,6 +2,8 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <jsp:include page="./common/CommonHeader.jsp" />
 <body>
-<c:out value="${serverNm}" />
-</body>
-</html>
+<div id="main">
+
+
+</div>
+<jsp:include page="./common/CommonFooter.jsp" />

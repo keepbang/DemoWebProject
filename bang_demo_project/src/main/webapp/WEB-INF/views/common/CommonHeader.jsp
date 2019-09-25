@@ -9,4 +9,8 @@
 	var _contextPath = "<c:url value='/'/>";
 	var serverNm = "${serverNm}";
 </script>
+
+<link rel="stylesheet" href="<c:url value='/resources/js/lib/jquery/jquery-ui/jquery-ui-1.12.1.css'/>" type="text/css" />
+<link rel="stylesheet" href="<c:url value='/resources/js/lib/jquery/jquery-ui/jquery-ui.theme.min-1.12.1.css'/>" type="text/css" />
+
 </head>
