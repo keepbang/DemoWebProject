@@ -1,5 +1,12 @@
 spring:
   profiles:
     active: default
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/pdb
+    username: p_user
+    password: p_user00
 server:
   serverNm: defaultServer
+  
+ 

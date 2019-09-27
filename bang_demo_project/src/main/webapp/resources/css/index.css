@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+BODY {
+	padding: 0px;
+	margin: 0px;
+	min-width: 1000px;
+	min-height: 900px;
+}

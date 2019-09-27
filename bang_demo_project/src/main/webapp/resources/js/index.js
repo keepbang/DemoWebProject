@@ -3,8 +3,8 @@
  */
 
 
+window.onload = function(){
+	const mainDiv = document.getElementById("main");
+	mainDiv.prepend(serverNm);
+}
 
-
-jQuery(window).on('load',function(){
-	jQuery('#main').text(serverNm);
-});

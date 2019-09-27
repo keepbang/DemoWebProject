@@ -3,7 +3,12 @@
 <jsp:include page="./common/CommonHeader.jsp" />
 <body>
 <div id="main">
-
-
+	<div class="sub1">
+	
+	</div>
+	<div>
+	
+	
+	</div>
 </div>
 <jsp:include page="./common/CommonFooter.jsp" />

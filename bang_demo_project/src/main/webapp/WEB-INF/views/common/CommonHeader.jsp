@@ -12,5 +12,6 @@
 
 <link rel="stylesheet" href="<c:url value='/resources/js/lib/jquery/jquery-ui/jquery-ui-1.12.1.css'/>" type="text/css" />
 <link rel="stylesheet" href="<c:url value='/resources/js/lib/jquery/jquery-ui/jquery-ui.theme.min-1.12.1.css'/>" type="text/css" />
-
+<link rel="stylesheet" href="<c:url value='/resources/css/index.css'/>" type="text/css" />
+<link rel="icon" href="data:;base64,iVBORw0KGgo=">
 </head>
